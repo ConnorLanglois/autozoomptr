@@ -21,9 +21,9 @@ Clone the repo.
 
 Run the main executable:
 
-	```
-	dist/AutoZoomPtr.exe
-	```
+```
+dist/AutoZoomPtr.exe
+```
 
 ## Authors
 
